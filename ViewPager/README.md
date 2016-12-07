@@ -1,0 +1,1 @@
+This Application is an example of how a viewPager in implemented with tab layout in Android.
