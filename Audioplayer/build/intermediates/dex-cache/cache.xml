@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeet\.android\build-cache\9830d00b5a35781d323bbb9662ce167a9f04be9e\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Programming\Android\Projects\Audioplayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_2fb5fcfe640d6435235c42b98568d2be82d0e854\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeet\.android\build-cache\5fe649dfb624d47ca700536e67b27059c3b905cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Programming\Android\Projects\Audioplayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94f3958cf73199c91459f7aceea14a16237385e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programming\Android\Projects\Audioplayer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="129a6c11ce7c02627ba0b2d2f2bdfe1485410178">
+        <dex dex="E:\Programming\Android\Projects\Audioplayer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b12b05082040451a8ee90d7b03619a200f57c3f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeet\.android\build-cache\9830d00b5a35781d323bbb9662ce167a9f04be9e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Programming\Android\Projects\Audioplayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_769abfa6c90cd48c3498310341637b24515d30af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeet\.android\build-cache\6600d82802c054ffc25b51a9c3a1f2487a0664c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Programming\Android\Projects\Audioplayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8a009b92fb3ebab64de29d4223bbaa22cfa2042\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeet\.android\build-cache\95a5a7c1c2ef7799692348bb30bd4b05c8254162\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3a5890bcab2a0f694cf4f6ecb2e5cd2a11ce358">
+        <dex dex="E:\Programming\Android\Projects\Audioplayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19042ba6b98c74c00d6194ee75777df54182c768\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeet\.android\build-cache\661dfdc1c8331051cd4fb834d7c1634d49fb4e1b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="E:\Programming\Android\Projects\Audioplayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a39a3d11e76bed4a608c357e9b9b96d94ca3178\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeet\.android\build-cache\48a9822dbfbd3b30abb3171520770315f0df0790\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Programming\Android\Projects\Audioplayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f9ae86eb39276900be4bad4d9d4a4dfc9519d67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeet\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Programming\Android\Projects\Audioplayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_d182ad6c4424114d03eb250f4bb2a17108272cf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeet\.android\build-cache\fb566bcbf27825ec26baff142916fab07fbc5374\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\Programming\Android\Projects\Audioplayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e7ef201b33749d7aacadd59b25eb0434f59b512\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeet\.android\build-cache\a2fa0f1101527c75b75dfe4e990e47a28a74a316\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="E:\Programming\Android\Projects\Audioplayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_17fdbe0063d5074ed590e30856273771bc90a58b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programming\Android\Projects\Audioplayer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\Programming\Android\Projects\Audioplayer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_eb8444dcc598b5c8faeb97bc8ad496a6d2949058\classes.dex" />
+    </item>
+
+</items>
